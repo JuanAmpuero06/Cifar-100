@@ -1,1 +1,1 @@
-# Cifar-100 , Rama de JUAN es la principal
+# Cifar-100 , Rama: JUAN / The_simpsons (11).ipynb
